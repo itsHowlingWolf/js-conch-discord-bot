@@ -1,0 +1,16 @@
+{
+  "name": "the-conch",
+  "version": "1.0.0",
+  "description": "The true Conch bot",
+  "main": "baseConch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thomas.woerdeman",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "opusscript": "0.0.3",
+    "sqlite3": "^3.1.8"
+  }
+}
