@@ -1,7 +1,7 @@
   // -- INITIALIZE DISCORD -- //
 const discord = require('Discord.js');
 const client = new discord.Client();
-const token = "MzM2NjI5OTEzNTI2MjA2NDc0.DE_3MA.b7AXtQXjQPxJEH4_T99wm-m8FZU";
+const token = "";
   // -- CHECK IF TOKEN IS SET -- //
 token == undefined ? console.log('Fill in you discord token') : client.login(token);
   // -- INITIALIZE DATABASE CLASS -- //
